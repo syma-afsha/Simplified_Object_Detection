@@ -4,7 +4,7 @@ This Assignment is done in the Deep Network Development Lab.
 
 Step 1 : Dataset Creation:
 
-Select at least ANY 3 objects. Avoid offensive, inappropriate and violent objects.
+Select at least ANY 3 objects. 
 Remove the background from the chosen objects, ensuring only the object remains.
 Collect background images from different locations/scenarios.
 Generate a synthetic dataset by randomly inserting one object into a background image at a random location.
@@ -21,7 +21,7 @@ Another for bounding box regression (of size 4 for coordinates).
 Experiment with different layers and hyperparameters, incorporating regularization techniques.
 Define an optimizer, loss function, and number of epochs for training.
 Optimize both classification and bounding box regression losses.
-Choose at least 3 evaluation metrics for your model (e.g., Precision, Recall, F-1, mAP).
+Choose  3 evaluation metrics for your model (Precision, Recall, mAP).
 Visualize performance metrics and model predictions.
 
 Step 3: Existing Model Comparison:
