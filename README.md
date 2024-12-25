@@ -31,6 +31,8 @@ Monitor and visualize losses and metrics during fine-tuning.
 Compare the performance of the custom model and the fine-tuned existing model.
 Visualize predictions from both models and justify any observed differences.
 Provide insights on potential improvements for the custom model.
+
+### Comparison between Simplified Object Detection MOdel and YOLOV11
 ![Comparison](https://github.com/syma-afsha/Simplified_Object_Detection/blob/main/00158_comparison.png)
 ![Comparison](https://github.com/syma-afsha/Simplified_Object_Detection/blob/main/00188_comparison.png)
 ![Comparison](https://github.com/syma-afsha/Simplified_Object_Detection/blob/main/00184_comparison.png)
