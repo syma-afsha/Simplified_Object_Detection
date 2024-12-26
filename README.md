@@ -1,6 +1,6 @@
 ### Simplified_Object_Detection
 
-This Assignment is done in the Deep Network Development Lab. 
+This Project is done in the Deep Network Development Lab. 
 
 Step 1 : Dataset Creation:
 
